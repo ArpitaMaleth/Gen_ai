@@ -1,2 +1,1 @@
-# Deep-Learning-practice
-Simple ANN programs
+Tryna Explore some stuffs (hope yall dont mind)
